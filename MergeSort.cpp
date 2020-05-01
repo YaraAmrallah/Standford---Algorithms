@@ -54,7 +54,7 @@ void mergeSort(int arr[], int starts, int ends)
       k++;
     }
 
-    // add the rest of the elements 
+    // add the rest of the elements
 
     while(i < length1)
     {
